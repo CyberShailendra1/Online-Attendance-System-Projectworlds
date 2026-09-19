@@ -2,7 +2,7 @@
  
 **Researcher:** Shailendra Mourya [CyberShailendra](https://github.com/CyberShailendra1)
 
-**Contact:** cybershailendra@gmail.com
+**Contact:** cybershailendra1@gmail.com
 
 **Target:** Projectworlds — Online Attendance System in PHP (v1.0)[https://projectworlds.com/free-projects/php-projects/online-attendance-system-php-mysql-bootsrap/]
 
