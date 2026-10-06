@@ -9,6 +9,7 @@
 **CVE id:** CVE-2026-86226
 
 **Target:** Projectworlds — Online Attendance System in PHP (v1.0)[https://projectworlds.com/free-projects/php-projects/online-attendance-system-php-mysql-bootsrap/]
+
 **Component:** Profile management (`profile.php`, `php/update_profile.php`, `php/process_signup.php`)
 
 **Vulnerability class:** Stored Cross-Site Scripting (CWE-79)
