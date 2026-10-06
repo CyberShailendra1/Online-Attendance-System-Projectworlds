@@ -4,7 +4,7 @@
 
 **Contact:** cybershailendra1@gmail.com
 
-**Entry:** VDB-399379
+**Entry:** VDB-399379 
 
 **CVE id:** CVE-2026-86226
 
